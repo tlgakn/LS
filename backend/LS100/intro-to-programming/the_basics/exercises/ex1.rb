@@ -1,1 +1,0 @@
-puts "Tolga " + "Akin"
